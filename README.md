@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Magdoleen :)   
+- I'm a student at the American University in Cairo trying to learn new things, and a current intern at FlyrankAI
 
-<!--
-**maggie-e-matthias/maggie-e-matthias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Currently learning  
+* Game Development 👾​
+* Frontend 🖥️​
+* Data Structures 📊​
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+* Git
+* C++/C
+* Lua
+* LOVE 2D
+* Cursor
+
