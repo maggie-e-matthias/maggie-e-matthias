@@ -12,5 +12,6 @@
 * C++/C
 * Lua
 * LOVE 2D
+* VS Code
 * Cursor
 
