@@ -8,10 +8,14 @@
 * Data Structures 📊​
 
 ### Languages & Tools
-* Git
 * C++/C
 * Lua
 * LOVE 2D
+* HTML
+* CSS
+* JavaScript
 * VS Code
+* Git
 * Cursor
+  
 
