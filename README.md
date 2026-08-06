@@ -18,6 +18,4 @@
 * Git
 * Cursor
 
-<img src="https://github-pet.vercel.app/api/pet"/>
-  
 
